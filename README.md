@@ -22,6 +22,14 @@ Performed Exploratory Data Analysis on the data_clean.csv file.
 
 4. Predictive Power Score to check relation between two features who are not colinear
 
-#**Feauture Engineering**
+# **Feauture Engineering**
 
 How to check the importance of a feature in our data. 
+
+We learnt 3 methods:
+
+1. Univariate Feature selection
+
+2. Recursive Feature Elimination
+
+3. Feature Importance using Decision Tree
